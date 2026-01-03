@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685169595473/aceae932-a496-47a7-8df9-b212d28f260a.png" alt="Header Banner" />
-</p>
-
 <h1 align="center">Hi there, I'm Sajjad Mahdi 👋🚀</h1>
 
 <p align="center">
