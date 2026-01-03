@@ -1,26 +1,31 @@
 <h1 align="center">Hi there, I'm Sajjad Mahdi 👋🚀</h1>
 
 <p align="center">
-  <strong>.NET Developer | Python Enthusiast | AI & Computer Vision Specialist</strong>
+  <strong>Senior .NET Developer | Web & Backend Specialist | AI & Automation Enthusiast</strong>
 </p>
 
 <p align="center">
-  From Yazd, Iran 🇮🇷 | Building scalable backend systems and intelligent solutions
+  From Yazd, Iran 🇮🇷 | Building scalable, real-world solutions that drive business efficiency.
 </p>
 
 <p align="center">
-  Open to <strong>international freelance projects</strong> in software development, automation, and AI integration. Let's create impactful solutions together!
+  Open to <strong>freelance opportunities</strong> worldwide – especially in web development, accounting systems, industrial automation, employee management, and AI integrations. Let's turn ideas into impactful software!
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a passionate .NET developer with strong expertise in designing and implementing robust backend systems. I specialize in:
+I'm a passionate .NET developer with strong experience in designing and building robust web applications, backend systems, and enterprise solutions.
 
-- Enterprise software solutions, including **accounting systems**, **automation tools**, **project management (PM)** platforms, and **employee management systems**.
-- Industrial applications and custom business software tailored to real-world needs.
-- Integrating **computer vision** and AI for innovative use cases, such as employee monitoring, attendance tracking, process optimization, and quality control in industrial environments.
+**What I specialize in:**
+- Full-stack web development (ASP.NET Core, Blazor, APIs)
+- Accounting & financial software systems
+- Industrial automation and process management tools
+- Employee management platforms (including computer vision for monitoring & optimization)
+- Scalable architectures using microservices, RabbitMQ, Redis, Docker, and modern databases
 
-With hands-on experience in microservices, message queues, caching, and containerization, I deliver high-performance, maintainable applications. Always eager to tackle challenging projects!
+I've also explored Python for AI/ML projects, including computer vision applications that solve real business challenges.
+
+Always eager to tackle complex problems and deliver clean, maintainable code. 🚀
 
 ## 🛠 Tech Stack & Skills
 
@@ -39,9 +44,9 @@ With hands-on experience in microservices, message queues, caching, and containe
 </p>
 
 <p align="center">
-  Architectures: Microservices, Clean Architecture, DDD<br>
-  DevOps: Docker, Kubernetes basics, CI/CD<br>
-  AI/ML: Computer Vision (OpenCV), scikit-learn, TensorFlow basics
+  Architectures: Microservices, Clean Architecture<br>
+  DevOps: Docker, CI/CD basics<br>
+  AI: Computer Vision, Machine Learning integrations
 </p>
 
 ## 🚀 Notable Projects
@@ -51,15 +56,15 @@ With hands-on experience in microservices, message queues, caching, and containe
 
 ## 📫 Let's Connect
 <p align="center">
-  Available for freelance collaborations worldwide!
+  Available for freelance projects & collaborations!
 </p>
 
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/sajjad-mahdi-6566872bb/">LinkedIn</a> |
   ✉️ <a href="mailto:Mahdisajad392@gmail.com">Email</a> |
-  🌐 GitHub: Check out my repos and star if you like! ⭐
+  🌐 You're on my GitHub – star my repos if you like them! 😊
 </p>
 
 <p align="center">
-  Thanks for stopping by! 😊
+  Thanks for stopping by! 👀
 </p>
