@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sajjad Mahdi 👋🚀</h1>
 
 <p align="center">
-  <strong>Senior .NET Developer | Web & Backend Specialist | AI & Automation Enthusiast</strong>
+  <strong>Mid-Level .NET Developer | Web & Backend Specialist | AI & Automation Enthusiast</strong>
 </p>
 
 <p align="center">
