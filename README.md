@@ -1,16 +1,26 @@
 <h1 align="center">Hi there, I'm Sajjad Mahdi 👋🚀</h1>
 
 <p align="center">
-  <strong>Full-Stack .NET Developer | Python Enthusiast | AI & Computer Vision Explorer</strong>
+  <strong>.NET Developer | Python Enthusiast | AI & Computer Vision Specialist</strong>
 </p>
 
 <p align="center">
-  From Yazd, Iran 🇮🇷 | Passionate about building scalable, high-performance applications.
+  From Yazd, Iran 🇮🇷 | Building scalable backend systems and intelligent solutions
 </p>
 
 <p align="center">
-  Open to <strong>freelance opportunities</strong> worldwide – backend, microservices, AI/ML, automation. Let's collaborate!
+  Open to <strong>international freelance projects</strong> in software development, automation, and AI integration. Let's create impactful solutions together!
 </p>
+
+## About Me
+
+I'm a passionate .NET developer with strong expertise in designing and implementing robust backend systems. I specialize in:
+
+- Enterprise software solutions, including **accounting systems**, **automation tools**, **project management (PM)** platforms, and **employee management systems**.
+- Industrial applications and custom business software tailored to real-world needs.
+- Integrating **computer vision** and AI for innovative use cases, such as employee monitoring, attendance tracking, process optimization, and quality control in industrial environments.
+
+With hands-on experience in microservices, message queues, caching, and containerization, I deliver high-performance, maintainable applications. Always eager to tackle challenging projects!
 
 ## 🛠 Tech Stack & Skills
 
@@ -31,29 +41,25 @@
 <p align="center">
   Architectures: Microservices, Clean Architecture, DDD<br>
   DevOps: Docker, Kubernetes basics, CI/CD<br>
-  AI/ML: Computer Vision, scikit-learn, basic TensorFlow
+  AI/ML: Computer Vision (OpenCV), scikit-learn, TensorFlow basics
 </p>
 
 ## 🚀 Notable Projects
 <p align="center">
-  Check my repositories for more! I'll add a detailed portfolio soon.
+  Explore my repositories! More detailed portfolio coming soon.
 </p>
 
 ## 📫 Let's Connect
 <p align="center">
-  Available for freelance & collaboration!
+  Available for freelance collaborations worldwide!
 </p>
 
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/sajjad-mahdi-6566872bb/">LinkedIn</a> |
   ✉️ <a href="mailto:Mahdisajad392@gmail.com">Email</a> |
-  🌐 You're on my GitHub!
+  🌐 GitHub: Check out my repos and star if you like! ⭐
 </p>
 
 <p align="center">
-  Thanks for visiting! 👀
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SajjadMahdi.SajjadMahdi" alt="Visitors"/>
+  Thanks for stopping by! 😊
 </p>
