@@ -1,4 +1,6 @@
-[![Header Banner](https://cdn.hashnode.com/res/hashnode/image/upload/v1685169595473/aceae932-a496-47a7-8df9-b212d28f260a.png)](https://github.com/YOUR_USERNAME)
+
+
+[![Header Banner](https://cdn.hashnode.com/res/hashnode/image/upload/v1685169595473/aceae932-a496-47a7-8df9-b212d28f260a.png)](https://github.com/SajjadMahdi)
 
 # Hi there, I'm Sajjad Mahdi 👋🚀
 
@@ -28,9 +30,9 @@ Open to **freelance opportunities** worldwide – especially in backend developm
 
 ## 📊 GitHub Stats
 
-[![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajjadMahdi&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SajjadMahdi)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadMahdi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SajjadMahdi)
 
 ## 🚀 Notable Projects
 *(Check my repositories for more! I'll add detailed portfolio links soon.)*
@@ -44,4 +46,4 @@ Available for freelance & collaboration!
 
 Thanks for visiting! 👀
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SajjadMahdi.SajjadMahdi)
