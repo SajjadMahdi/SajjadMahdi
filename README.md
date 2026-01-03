@@ -1,7 +1,3 @@
-
-
-[![Header Banner](https://cdn.hashnode.com/res/hashnode/image/upload/v1685169595473/aceae932-a496-47a7-8df9-b212d28f260a.png)](https://github.com/SajjadMahdi)
-
 # Hi there, I'm Sajjad Mahdi 👋🚀
 
 **Full-Stack .NET Developer | Python Enthusiast | AI & Computer Vision Explorer**
